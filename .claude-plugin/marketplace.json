@@ -1,0 +1,19 @@
+{
+  "name": "recost",
+  "owner": {
+    "name": "recost-dev"
+  },
+  "description": "Claude Code plugin marketplace for recost-dev.",
+  "plugins": [
+    {
+      "name": "design-toolkit",
+      "source": "./plugins/design-toolkit",
+      "description": "30 skills for high-end frontend design, UI critique, image-direction, and output discipline."
+    },
+    {
+      "name": "superpowers",
+      "source": "./plugins/superpowers",
+      "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques. Vendored from github.com/obra/superpowers (MIT, © Jesse Vincent)."
+    }
+  ]
+}
