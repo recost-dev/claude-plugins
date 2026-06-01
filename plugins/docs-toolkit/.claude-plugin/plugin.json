@@ -1,0 +1,8 @@
+{
+  "name": "docs-toolkit",
+  "description": "Skills for keeping repository documentation in sync with code. Includes update-mds: refresh README, progress/status, and CLAUDE.md files from the commits since each doc was last touched, using per-file baselines and parallel subagents.",
+  "version": "0.1.0",
+  "author": {
+    "name": "recost-dev"
+  }
+}

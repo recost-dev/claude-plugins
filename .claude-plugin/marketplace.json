@@ -14,6 +14,11 @@
       "name": "superpowers",
       "source": "./plugins/superpowers",
       "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques. Vendored from github.com/obra/superpowers (MIT, © Jesse Vincent)."
+    },
+    {
+      "name": "docs-toolkit",
+      "source": "./plugins/docs-toolkit",
+      "description": "Skills for keeping repository documentation in sync with code. update-mds refreshes README, progress/status, and CLAUDE.md files from the commits since each doc was last touched."
     }
   ]
 }
